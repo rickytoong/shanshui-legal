@@ -1,1 +1,7 @@
 # shanshui-legal
+<!DOCTYPE html><html><body>
+<h1>Privacy Policy - Shanshui Free Range Chicken</h1>
+<p>Last updated: March 24, 2026</p>
+<p>This app is operated by Full Nature Fresh Sdn Bhd. We collect only basic TikTok account information necessary to post farm content videos. We do not sell or share your data with third parties.</p>
+<p>Contact: shanshuifreerangechicken@gmail.com</p>
+</body></html>
